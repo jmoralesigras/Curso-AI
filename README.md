@@ -9,5 +9,7 @@
 
 [Política ESP.zip](https://github.com/jmoralesigras/Curso-AI/files/10481442/Politica.ESP.zip)
 
+[Enlace Chat-GPT](https://chat.openai.com/)
+
 ### Info & Contacto
 [jordimorales.com](https://jordimorales.com)
